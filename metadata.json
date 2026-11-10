@@ -1,0 +1,8 @@
+{
+  "name": "NILAI SISWA – MI NURUL FALAH",
+  "description": "Sistem Informasi Akademik & Portal Nilai Siswa, Tabungan, Infak, Absensi, Iuran, dan Perizinan MI Nurul Falah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
